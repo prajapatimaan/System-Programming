@@ -1,0 +1,1 @@
+#define MAX(X,Y,Z) (X>Y)? ((X>Z)?X:Z) : ((Y>Z)?Y:Z)
